@@ -1,0 +1,98 @@
+body{margin:0;
+}
+header{
+    background-color: blueviolet;
+    height:100px;
+    text-align: center;
+    color: cornsilk;
+}
+
+h1{
+    margin:0;
+}
+.banner{
+    background-color: darkgreen;
+    height: 400px;
+    text-align: center;
+    color: mediumorchid;}
+
+    
+    .left{
+        background-color: midnightblue;
+        width: 50%;
+        height:200px;
+        text-align: center;
+        float: left;
+    }
+
+    .right{
+        background-color: orangered;
+        width: 50%;
+        height: 200px;
+        text-align: center;
+        float: right;
+    }
+    .concreat{
+        overflow: hidden;}
+        .long-left{
+            background-color: yellow;
+            width: 70%;
+            height: 100px;
+            float: left;
+        }
+        .short-right{
+            background-color: rgb(47, 94, 89);
+            width: 30%;
+            height: 100px;
+            float: right;
+        }
+          .concreat two{
+              overflow: hidden;
+          }  
+         footer{
+             background-color: skyblue;
+             height: 100px;
+             text-align: center;
+         }
+            
+           
+            
+    
+  
+    
+   
+    
+
+
+
+
+    
+   
+
+
+
+
+    
+
+
+    
+      
+        
+        
+        
+       
+
+
+    
+    
+    
+    
+
+        
+
+    
+     
+    
+
+
+
